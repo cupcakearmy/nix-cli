@@ -19,8 +19,7 @@
     pkgs.gnutar
     pkgs.btop
 
-    #(pkgs.nerdfonts.override { fonts = [ "JetBrainsMono" ]; })
-    pkgs.nerd-fonts.jet-brains-mono
+    pkgs.nerd-fonts.jetbrains-mono
 
   ];
 

@@ -18,6 +18,9 @@ This can be run on any machine. Just update and then just rerun on the targets
 
 ```bash
 nix flake update
+
+# To test
+nix run home-manager -- build --flake .#root
 ```
 
 ```
