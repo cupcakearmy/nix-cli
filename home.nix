@@ -19,6 +19,8 @@
     pkgs.gnutar
     pkgs.btop
 
+    pkgs.rclone
+
     pkgs.nerd-fonts.jetbrains-mono
 
   ];
